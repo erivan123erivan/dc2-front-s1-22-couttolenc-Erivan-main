@@ -1,0 +1,24 @@
+.first, .third {
+	color: rgb(0, 0, 0);
+}
+
+.second, .fourth {
+	color: rgb(192, 9, 37);
+}
+.fifth {
+	color: grey;
+}
+
+.mylist {
+	border-style: double;
+	border-width: 5px;
+}
+
+ul li{
+	list-style-type: none;
+}
+div {
+	background-color: rgb(32, 192, 207);
+	text-align: center;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
